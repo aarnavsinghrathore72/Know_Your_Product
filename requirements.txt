@@ -1,0 +1,25 @@
+# --- Core Web Framework ---
+streamlit==1.39.0
+
+# --- HTTP Requests & APIs ---
+requests==2.32.3
+
+# --- Image Processing ---
+Pillow==10.4.0
+
+# --- Data Handling ---
+pandas==2.2.3
+numpy==1.26.4
+
+# --- Data Visualization ---
+plotly==5.24.0
+
+# --- Security / Environment Variables (optional but recommended) ---
+python-dotenv==1.0.1
+
+# --- Optional Enhancements (for better UI/UX and API handling) ---
+altair==5.4.1
+protobuf==5.28.2
+
+# --- For Deployment (ensures compatibility) ---
+typing-extensions==4.12.2
